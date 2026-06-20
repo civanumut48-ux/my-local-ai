@@ -1,0 +1,32 @@
+# Local AI Project
+
+A lightweight, local AI application that runs completely without any external API keys.
+
+## 🚀 Features
+* **No API Key Required**: Runs entirely offline using local resources.
+* **Privacy Focused**: Your data stays on your local machine.
+
+## 🛠️ Quick Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd YOUR_REPOSITORY_NAME
+   ```
+
+3. Install the common local AI dependencies:
+   ```bash
+   pip install torch transformers ollama llama-cpp-python
+   ```
+
+## 💻 Usage
+
+Run the main script to start the application:
+```bash
+python main.py
+```
+
